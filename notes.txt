@@ -1,1 +1,37 @@
 first init
+
+Chapter 2
+Snow ran an experiment that involved trying to figure out if the cause of all the deaths
+in London during 1850 were due to the water contamination of one of the pumps. In order to
+be believed, he needed to run a controlled experiment between two groups of people that
+demonstrated his point. 
+
+The groups needed to be as similar as possible, up to the point where the only difference
+was the intake of different sources of water between the groups. He conducted the study
+and proved the causality between the rampant deaths and a specific source of contaminated
+water. This is one of the best examples of running a randomized controlled experiment 
+back in the day.
+
+This strategy of choosing two similar groups at random with the only difference being the
+"treatment" you give one of the groups is a good way to prove causality of something.
+Make sure when choosing the groups that a placebo is given to the other group, or take
+some preventative measures such that one group doesn't know about the experiment, which
+could alter the results.
+
+When it is NOT possible to do a randomized controlled experiment, one must do an observational
+experiment. This is where you aren't conducting the experiment yourself but you are observing
+an "association" between two things. An observational experiment would need to take place if
+you were trying to see the relationship between alcoholic mothers that are pregnant and how it
+affects the kids. You shouldn't expect to create two groups where one group is willing to drink
+alcohol while pregnant.
+
+Another thing with observational experiments is that you need to be careful of confunding factors.
+These things are the key differences between two groups that you are trying to create a causality between.
+Confunding factors may be the actual cause of something you are trying to figure out. For example, if you
+are trying to relate coffee drinking with lung cancer, it would be hard to create two groups in which things
+are similar between them. It was noted that there was an "association" of increased lung cancer with people
+who drink coffee, but it was also noted that people who drink coffee also liked to smoke, and we know
+that smoking is actually the cause of lung cancer in this case. This shows that confunding factors hinder
+any casuality that we may be trying to prove.
+
+When making observational experiments, you must be very careful of confunding factors.
