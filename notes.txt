@@ -35,3 +35,46 @@ that smoking is actually the cause of lung cancer in this case. This shows that 
 any casuality that we may be trying to prove.
 
 When making observational experiments, you must be very careful of confunding factors.
+
+
+
+
+Chapter 3.4
+Introduction to Tables.
+
+We can make and import tables in python. We will see later how to do this, but
+look (the table has a name, and you can do things to it):
+
+table_name.show(2) # this shows the first two rows with all columns.
+table_name.select("Flavor") # this shows the column of Flavor with all rows.
+You can select multiple columns to show.
+
+table_name.drop('Color') # This returns the whole table with the Color column removed.
+
+You can save this new table to a variable and display it without changing the original table.
+Like this:
+
+no_colors = cones.drop('Color')
+
+no_colors
+
+
+
+Chapter 3.4.2 Sorting
+You can sort a table based on one of the columns. It is default ascending order.
+Like this:
+
+table_name.sort("Price")
+
+You can do descending if you mark that attribute as true.
+
+cones.sort('Price', descending=True)
+
+We can sort tables with a 'where' clause that takes the column and the condition.
+
+cones.where('Flavor', 'chocolate')
+
+When you print a table with just its name, it shows only the first 10 rows unless you want all of them.
+Then you do this:
+
+table_name.show()
